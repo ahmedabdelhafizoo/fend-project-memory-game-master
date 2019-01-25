@@ -14,7 +14,8 @@ Each turn:
 The game ends once all cards have been correctly matched.
 
 ## How To Start The Game
-#just click on Play Now button and Have fun.
-#Play Now https://ahmedabdelhafizoo.github.io/fend-project-memory-game-master/
+just click on Play Now button and Have fun.
+##Play Now
+https://ahmedabdelhafizoo.github.io/fend-project-memory-game-master/
 ## Challenge
 your challenge is to match all cards with less moves, time and get all stars.
